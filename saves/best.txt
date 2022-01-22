@@ -1,0 +1,9 @@
+best_5x5 = 0
+best_5x4 = 0
+best_5x3 = 0
+best_4x5 = 0
+best_4x4 = 0
+best_4x3 = 0
+best_3x5 = 0
+best_3x4 = 0
+best_3x3 = 0

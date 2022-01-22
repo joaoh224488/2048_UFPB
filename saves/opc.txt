@@ -1,0 +1,5 @@
+dia = True
+som = True
+l = 4
+c = 4
+
