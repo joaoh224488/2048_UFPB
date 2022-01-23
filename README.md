@@ -22,9 +22,9 @@ Clone o repositório em sua máquina. Copie e cole a linha abaixo no seu program
 
 ### 💡 Opções:
 
-* Modo noturno;
-* Linhas variando entre 3 e 5;
-* Colunas variando entre 3 e 5;
+* Modo noturno ou diurno;
+* Linhas variam entre 3 e 5;
+* Colunas variam entre 3 e 5;
 * Modo versus.
 
 <p> O jogo salva as últimas opções escolhidas pelo jogador, além das grades e e suas respectivas informações,utilizando arquivos de texto para armazenar esses dados. </p>
