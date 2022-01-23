@@ -4,7 +4,7 @@
 
 
 
-## Bibliotecas utilizadas:
+## 📚 Bibliotecas utilizadas:
 
 * Pygame;
 * copy;
@@ -18,9 +18,9 @@ Clone o repositório em sua máquina. Copie e cole a linha abaixo no seu program
 
     git clone git@github.com:joaoh224488/2048_UFPB.git
 
-## Jogo:
+## 🎮 Jogo:
 
-### Opções:
+### 💡 Opções:
 
 * Modo noturno;
 * Linhas variando entre 3 e 5;
