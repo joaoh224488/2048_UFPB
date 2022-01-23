@@ -1,4 +1,33 @@
 # 2048_pygame_pt-br
+
 <p> Projeto apresentado por estudantes do bacharelado em Ciências de Dados e Inteligência Artificial da Universidade Federal da Paraíba como requisito para conclusão da disciplina de Introdução à programação.</p>
-<p> <br> Desenvolvido utilizando conceitos de programação estruturada(modularização), bibliotecas padrão do python(shutil, tempfile, copy e random) e a biblioteca pygame, O projeto foi criado para ter mais opções para o jogador do que o jogo original do 2048. Ao clicar em "opções", no menu inicial o jogador poderá escolher de 3 a 5 linhas ou colunas, visualizar o jogo em modo noturno ou não e se o som de vitória estará ligado ou não. Além disso, na tela inicial o jogador poderá escolher entre o jogo normal e o modo versus. No modo versus, ganha o jogador que conseguir construir mais rápido o 2048(ou 512, se a opção de grade estiver para o 3x3).</p>
+
+
+
+## Bibliotecas utilizadas:
+
+* Pygame;
+* copy;
+* random;
+* shutil;
+* tempfile.
+
+## ⬇️ Download e ✔️ Instalação:
+
+Clone o repositório em seu PC da maneira que preferir. Por exemplo, copie e cole a linha abaixo no seu programa padrão de linha de comando:
+
+    git clone git@github.com:joaoh224488/2048_UFPB.git
+
+## Jogo:
+
+### Opções:
+
+* Modo noturno;
+* Linhas variando entre 3 e 5;
+* Colunas variando entre 3 e 5;
+* Modo versus.
+
 <p> O jogo salva as últimas opções escolhidas pelo jogador, além das grades e e suas respectivas informações,utilizando arquivos de texto para armazenar esses dados. </p>
+
+
+
