@@ -14,7 +14,7 @@
 
 ## ⬇️ Download e ✔️ Instalação:
 
-Clone o repositório em sua máquina. Copie e cole a linha abaixo no seu programa padrão de linha de comando:
+Para clonar o repositório, copie e cole a linha abaixo no seu programa padrão de linha de comando:
 
     git clone git@github.com:joaoh224488/2048_UFPB.git
 
